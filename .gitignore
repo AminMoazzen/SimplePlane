@@ -1,0 +1,43 @@
+# Unity generated folders
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+MemoryCaptures/
+Records/
+
+# Asset meta data should only be ignored when the corresponding asset is also ignored
+*.pidb
+*.booproj
+*.svd
+
+# Visual Studio / MonoDevelop generated files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.pdb
+*.mdb
+
+# Rider
+.idea/
+*.sln.iml
+
+# Visual Studio Code
+.vscode/
+
+# Others
+.DS_Store
+Thumbs.db
+
+# Builds
+*.apk
+*.aab
+*.xcodeproj
